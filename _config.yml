@@ -1,0 +1,19 @@
+title: "Infrastructure for Collective Agency"
+description: "An early-stage vision for a possible ARIA programme: building the structures and tools to advance human agency so a plurality of minds can coexist and thrive."
+theme: jekyll-theme-primer
+url: "https://ryanolf-aria.github.io"
+baseurl: "/infrastructure-for-collective-agency"
+logo: /assets/images/icon-512.png
+# Cloudflare Web Analytics beacon token (Cloudflare dashboard > Analytics & Logs > Web Analytics)
+cloudflare_analytics_token: "9ce99717ba2b4770b3f311444638bfae"
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /assets/images/social-card.jpg
+        width: 1200
+        height: 630
+exclude:
+  - README.md
+  - Gemini_Generated_Image_*.jpeg

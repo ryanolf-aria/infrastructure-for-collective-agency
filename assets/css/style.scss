@@ -1,0 +1,22 @@
+---
+---
+
+@import "jekyll-theme-primer";
+
+// Narrower, more readable text column (~740px of text, like minima)
+.container-lg {
+  max-width: 772px;
+}
+
+blockquote.note {
+  border-left: 0.25em solid #0969da;
+  color: inherit;
+  padding: 0.5em 1em;
+}
+blockquote.note::before {
+  content: "ⓘ Note";
+  display: block;
+  font-weight: 600;
+  color: #0969da;
+  margin-bottom: 0.5em;
+}
