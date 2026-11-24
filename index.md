@@ -2,7 +2,7 @@
 
 Ryan Olf · <ryan.olf@aria.org.uk>
 
-_v0.4, November 2026. An early-stage vision for a possible ARIA programme, shared to invite challenge and ideas. It is not a funding call. Nothing here is decided or approved by ARIA. The final section sets out seven open questions where I'd most value your input. Please share it with anyone who might help._
+_v0.4, November 2026. An early-stage vision for a possible ARIA programme, shared to invite challenge and ideas. It is not a funding call. **This is not an official publication and nothing here is decided or approved by ARIA.** The final section sets out seven open questions where I'd most value your input. Please share it with anyone who might help._
 
 **Short on time?** Read the [three-paragraph summary](tldr.html) or jump to the [seven open questions](#from-vision-to-programme-and-how-you-can-help).
 
@@ -62,7 +62,13 @@ The commons can strengthen the capacity for alignment, competence and responsive
 
 ARIA is often described as funding moonshots, and an epistemic commons that can restore human agency and revolutionise collective reasoning is a moonshot-scale challenge. But you don't go to the moon for the first time on a budget of ~£50m. ARIA programmes are designed to be _catalytic_: to break through an activation barrier and unlock massive latent potential. ARIA aims to support people like Robert Goddard, whose pioneering rocket research made the journey possible, rather than bankroll NASA.
 
-My aim now is to refine this thesis and, far more challenging, to identify an ARIA-sized contribution that can catalyse a new era of individual and collective agency. The path to a plausible programme runs through the following seven questions. Below is my early thinking on each, and where I'd most value your ideas.
+My aim now is to refine this idea and, far more challenging, to identify an ARIA-sized contribution that could catalyse a new era of individual and collective agency. The path to a plausible programme runs through the following seven questions. Below is my early thinking on each, and where I'd most value your ideas.
+
+<!-- prettier-ignore -->
+> **Stages of ARIA programme development**
+>
+> ARIA programmes are conceived and developed by Programme Directors (PDs, like me), via a process we call "discovery." In the earliest stages—where I am now with this idea—discovery is informal and nothing is officially endorsed by ARIA. Once a plausible programme begins to take shape, PDs can seek approval to take an idea into a formal discovery stage, unlocking institutional support for convening activities (e.g. workshops), support staff, official ARIA publications, and programme design. After formal discovery, a programme must be approved by the ARIA CEO before it can fund any work.
+{: .note}
 
 #### 1. What precise problem would the programme solve?
 
